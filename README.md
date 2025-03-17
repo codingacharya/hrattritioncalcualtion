@@ -1,6 +1,6 @@
 git clone https://github.com/codingacharya/hrattritioncalcualtion.git
 
-cd hrattritioncalculation
+cd hrattritioncalcualtion
 
 pip install streamlit pandas scikit-learn matplotlib seaborn
 
